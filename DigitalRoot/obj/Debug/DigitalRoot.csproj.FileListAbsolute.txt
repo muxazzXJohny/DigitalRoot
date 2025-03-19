@@ -1,0 +1,7 @@
+C:\Users\Андрей\source\repos\DigitalRoot\bin\Debug\DigitalRoot.exe.config
+C:\Users\Андрей\source\repos\DigitalRoot\bin\Debug\DigitalRoot.exe
+C:\Users\Андрей\source\repos\DigitalRoot\bin\Debug\DigitalRoot.pdb
+C:\Users\Андрей\source\repos\DigitalRoot\obj\Debug\DigitalRoot.csproj.AssemblyReference.cache
+C:\Users\Андрей\source\repos\DigitalRoot\obj\Debug\DigitalRoot.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\DigitalRoot\obj\Debug\DigitalRoot.exe
+C:\Users\Андрей\source\repos\DigitalRoot\obj\Debug\DigitalRoot.pdb
